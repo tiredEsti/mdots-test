@@ -1,0 +1,11 @@
+{
+    "theme": {
+        "color": {
+            "standard-orange": "#FFA756"
+        },
+        "typography": {
+            "html-font": "serif"
+        }
+    }
+}
+
